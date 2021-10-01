@@ -1,5 +1,6 @@
 # flutter_doa_dan_dzikir
 
+![assets/images/16387282-Do-a-dan-Dzikir-App.png](assets/images/16387282-Do-a-dan-Dzikir-App.png)
 A new Flutter project.
 
 ## Getting Started
